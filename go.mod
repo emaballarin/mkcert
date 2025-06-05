@@ -1,6 +1,6 @@
 module filippo.io/mkcert
 
-go 1.18
+go 1.23.0
 
 require (
 	golang.org/x/net v0.40.0
@@ -9,6 +9,6 @@ require (
 )
 
 require (
-	golang.org/x/crypto v0.38.0 // indirect
-	golang.org/x/text v0.25.0 // indirect
+	golang.org/x/crypto v0.39.0 // indirect
+	golang.org/x/text v0.26.0 // indirect
 )
