@@ -5,7 +5,7 @@ go 1.23.0
 require (
 	golang.org/x/net v0.42.0
 	howett.net/plist v1.0.1
-	software.sslmate.com/src/go-pkcs12 v0.5.0
+	software.sslmate.com/src/go-pkcs12 v0.6.0
 )
 
 require (
