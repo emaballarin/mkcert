@@ -3,7 +3,7 @@ module filippo.io/mkcert
 go 1.24.0
 
 require (
-	golang.org/x/net v0.44.0
+	golang.org/x/net v0.45.0
 	howett.net/plist v1.0.1
 	software.sslmate.com/src/go-pkcs12 v0.6.0
 )
